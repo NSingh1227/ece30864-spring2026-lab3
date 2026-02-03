@@ -1,2 +1,8 @@
 a. Pros: Agile development allows development teams to pivot or iterate faster than traditional methodologies. There is also typically a higher level of end customer satisfaction as stakeholder reviews are integrated in each sprint cycle.
    Cons: Because Agile allows for changes in specifications it can be difficult to accurately predict the final scope, timeslines, and budget. Additionally, due to changing requirements, projects can excede their planned scope easily.
+
+b. The product owner's role is deciding what to build, while the scrum master focuses on efficiency by helping the team follow the process and clearing roadblocks.
+
+c. During sprint planning, the team selects which backlog items to tackle and defines a clear goal for the upcoming work. The daily stand-up is a quick meeting to share what was accomplished yesterday and identify any roadblocks stalling progress. In the sprint retrospective, the group discusses what went well during the cycle and what specific changes can improve the next one.
+
+d. An Epic is the big-picture goal, while a Story is a small, specific feature that helps achieve that goal from a user's perspective. A Bug is a fix for something that’s broken, and a Task is just a technical "to-do" item that needs to be checked off.
