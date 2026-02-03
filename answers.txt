@@ -1,1 +1,2 @@
-
+a. Pros: Agile development allows development teams to pivot or iterate faster than traditional methodologies. There is also typically a higher level of end customer satisfaction as stakeholder reviews are integrated in each sprint cycle.
+   Cons: Because Agile allows for changes in specifications it can be difficult to accurately predict the final scope, timeslines, and budget. Additionally, due to changing requirements, projects can excede their planned scope easily.
